@@ -1,0 +1,16 @@
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	background: blue;
+}
+figcaption{
+	font-style: italic;
+}
+li{font-variant: "times new roman";
+}
+footer{background: red;
+}
+details
+{background:#aaaaaa;}
+p{color:brown;
+	background:black;}
