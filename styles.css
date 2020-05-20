@@ -1,0 +1,23 @@
+/*if u use x.ClassName=''; in js
+
+.closed{
+	display: none;}
+
+.open{
+	display: block;
+}*/
+button{
+
+			width:150px;
+  			background-color: #00CCEE;
+  			margin-left:15px;
+  			font-size:120%;
+        border-radius: 5px;
+  		}
+
+#ns{
+  		color:white;
+			background-color: #7F7F7F;
+      padding:10px;
+      font-size:120%
+}
